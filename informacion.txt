@@ -1,0 +1,8 @@
+Este proyecto va enfocado para obtener informacion del mundial para obtener quinielas ganadoras
+
+va dirigido a los que les gusta el futbol o apostadores
+
+3 caracterisiticas:
+-estadisticas
+-ver resultados
+-recomendaciones
